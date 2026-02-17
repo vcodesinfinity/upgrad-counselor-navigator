@@ -1,2 +1,31 @@
-# upgrad-counselor-navigator
-A Python-based CLI tool for Academic Counselors to navigate upGrad's 2026 AI/DS portfolio.
+# upGrad Counselor Navigator (Technical Portfolio) 🚀
+
+## 🎯 Overview
+The **upGrad Counselor Navigator** is a specialized Python-based tool designed for Academic Counselors. It serves as a "Single Source of Truth" for the 2026 Data Science, AI, and Machine Learning program portfolio, ensuring accuracy during high-stakes learner interactions.
+
+## 🛠 Features
+- **Portfolio Focus:** Deep-dive details for 12 core technical programs.
+- **Financial Clarity:** Real-time access to "Total Cost" and "Block Amounts" (e.g., GGU DBA block at ₹44,999).
+- **Transparency:** Explicit breakdowns of learner-borne immersion costs for international programs (Singapore/San Francisco/UK).
+- **Technical Toolkits:** Lists industry-relevant tools (Python, Tableau, LangChain, etc.) for each course to assist in technical counseling.
+
+## 🚀 How to Run
+1. Ensure you have **Python 3.x** installed.
+2. Download the `upGrad_AC_Navigator_VK_beta7.1_Final_Build.py` file.
+3. Open your terminal or command prompt.
+4. Run: `python upGrad_AC_Navigator_VK_beta7.1_Final_Build.py`
+
+## 📂 Maintenance (For Future Joiners)
+To update program details or add new technical courses:
+1. Open the script in any text editor (VS Code, Notepad++, etc.).
+2. Locate the `db` dictionary.
+3. Edit the existing values or follow the structure to add a new Sl No entry.
+4. **Note:** Ensure each entry follows the existing dictionary format to avoid syntax errors.
+
+## 📄 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## 📅 Roadmap
+- [x] Initial Beta 7.1 Launch (DS/AI/ML Focus)
+- [ ] Integration of side-by-side Program Comparison Mode
+- [ ] Migration of data to an external JSON configuration file
