@@ -11,9 +11,9 @@ The **upGrad Counselor Navigator** is a specialized Python-based tool designed f
 
 ## 🚀 How to Run
 1. Ensure you have **Python 3.x** installed.
-2. Download the `upGrad_AC_Navigator_VK_beta7.1_Final_Build.py` file.
+2. Download the `navigator.py` file.
 3. Open your terminal or command prompt.
-4. Run: `python upGrad_AC_Navigator_VK_beta7.1_Final_Build.py`
+4. Run: `navigator.py`
 
 ## 📂 Maintenance (For Future Joiners)
 To update program details or add new technical courses:
@@ -26,6 +26,6 @@ To update program details or add new technical courses:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## 📅 Roadmap
-- [x] Initial Beta 7.1 Launch (DS/AI/ML Focus)
+- [x] Initial Stable v1.0.0 Launch (DS/AI/ML Focus)
 - [ ] Integration of side-by-side Program Comparison Mode
 - [ ] Migration of data to an external JSON configuration file
