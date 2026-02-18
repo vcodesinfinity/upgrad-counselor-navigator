@@ -11,13 +11,13 @@ The **upGrad Counselor Navigator** is a specialized Python-based tool designed f
 
 ## 🚀 How to Run
 1. Ensure you have **Python 3.x** installed.
-2. Download the `navigator.py` file.
-3. Open your terminal or command prompt.
+2. Download the `navigator.py` and the programs.json file.
+3. Open your terminal or command prompt//Simply double click on navigator.py
 4. Run: `navigator.py`
 
 ## 📂 Maintenance (For Future Joiners)
 To update program details or add new technical courses:
-1. Open the script in any text editor (VS Code, Notepad++, etc.).
+1. Open the json script in any text editor (VS Code, Notepad++, etc.).
 2. Locate the `db` dictionary.
 3. Edit the existing values or follow the structure to add a new Sl No entry.
 4. **Note:** Ensure each entry follows the existing dictionary format to avoid syntax errors.
