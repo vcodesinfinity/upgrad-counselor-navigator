@@ -11,9 +11,10 @@ The **upGrad Counselor Navigator** is a specialized Python-based tool designed f
 
 ## 🚀 How to Run
 1. Ensure you have **Python 3.x** installed.
-2. Download the `navigator.py` and the programs.json file.
-3. Open your terminal or command prompt//Simply double click on navigator.py
-4. Run: `navigator.py`
+2. Download `navigator.py` and `programs.json` into the same folder.
+3. Run: `python navigator.py`
+4. **Usage:** - Enter a single Sl No (e.g., `3`) for full details.
+   - Enter two Sl Nos separated by a comma (e.g., `3,4`) for a **Side-by-Side Comparison**.
 
 ## 📂 Maintenance (For Future Joiners)
 To update program details or add new technical courses:
@@ -28,7 +29,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📅 Roadmap
 - [x] Initial Stable v1.0.0 Launch (DS/AI/ML Focus)
 - [x] Migration of data to an external JSON configuration file
-- [ ] Integration of side-by-side Program Comparison Mode
+- [x] Integration of side-by-side Program Comparison Mode
 
 ## 📈 Strategic Impact & ROI
 
@@ -47,7 +48,7 @@ This consultative approach builds instant trust, reducing lead drop-off and refu
 This tool reduces the technical training ramp-up for new Academic Counselors by **~60%**, allowing them to speak with the authority of a 1-year veteran from Day 1.
 
 [Released]
-## [1.1.0-STABLE]
+## [1.1.0-STABLE] - 2026-02-18
 ### Added
 - External `programs.json` for easier data maintenance.
 - New schema fields: `Persona` and `Target_Roles` for consultative selling.
@@ -58,3 +59,12 @@ This tool reduces the technical training ramp-up for new Academic Counselors by 
 - Refactored `navigator.py` to utilize dynamic JSON loading instead of hardcoded dictionaries.
 - Terminal pathing issues using absolute directory mapping (`os.path`).
 - Numeric sorting logic for programs (10, 11, 12 now follow 9).
+[Released]
+
+## [1.2.0] - 2026-02-18
+### Added
+- **Comparison Engine:** Side-by-side terminal view for comparing two programs simultaneously.
+- **Branding Header:** Integrated the official upGrad 2026 AC Navigator header.
+- **Improved UX:** Centralized navigation flow to prevent double-prompts and error loops.
+### Fixed
+- Resolved `NameError` and logic leak that caused "Invalid Selection" errors during multi-select.
