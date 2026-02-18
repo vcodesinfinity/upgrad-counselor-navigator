@@ -29,6 +29,8 @@ def load_data():
 def show_menu(db):
     """Displays a formatted table of Sl Nos and Program Names for quick reference."""
     print("\n" + "="*95)
+    print("   upGrad 2026 OFFICIAL AC NAVIGATOR (Working Professionals) (v1.1.0 STABLE)   ")
+    print("\n" + "="*95)
     print(f"{'Sl No':<8} | {'Abbr':<12} | {'Program Name'}")
     print("-" * 95)
     
@@ -101,4 +103,5 @@ def main():
         input("\n>>> Press ENTER to return to the Main Menu...")
 
 if __name__ == "__main__":
+
     main()
