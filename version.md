@@ -1,6 +1,17 @@
 # Changelog - upGrad AC Navigator
 
 All notable changes to this project will be documented in this file.
+## [1.2.0-STABLE] - 2026-02-18
+### Added
+- **Feature:** Side-by-side comparison for dual-program evaluation.
+- **UI:** Added `upGrad 2026 OFFICIAL AC NAVIGATOR` branding to the main menu.
+- **Logic:** Implemented `if/elif` logic gate in `main()` to handle multi-selection vs. single-selection inputs.
+- **Formatting:** Used `textwrap.wrap` for adaptive column rendering in the comparison view.
+
+### Fixed
+- Fixed bug where typing a comma-separated selection would trigger an "Invalid Selection" error after the comparison.
+- Fixed UX issue requiring users to press Enter twice to return to the menu.
+
 ## [1.1.0-STABLE] - 2026-02-18
 ### Added
 - External `programs.json` for easier data maintenance.
