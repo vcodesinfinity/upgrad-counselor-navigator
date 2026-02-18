@@ -27,8 +27,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📅 Roadmap
 - [x] Initial Stable v1.0.0 Launch (DS/AI/ML Focus)
-- [ ] Integration of side-by-side Program Comparison Mode
 - [x] Migration of data to an external JSON configuration file
+- [ ] Integration of side-by-side Program Comparison Mode
 
 ## 📈 Strategic Impact & ROI
 
