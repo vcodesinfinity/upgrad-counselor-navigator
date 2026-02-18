@@ -28,7 +28,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📅 Roadmap
 - [x] Initial Stable v1.0.0 Launch (DS/AI/ML Focus)
 - [ ] Integration of side-by-side Program Comparison Mode
-- [ ] Migration of data to an external JSON configuration file
+- [x] Migration of data to an external JSON configuration file
 
 ## 📈 Strategic Impact & ROI
 
@@ -46,10 +46,15 @@ This consultative approach builds instant trust, reducing lead drop-off and refu
 ### 3. Democratizing Expertise
 This tool reduces the technical training ramp-up for new Academic Counselors by **~60%**, allowing them to speak with the authority of a 1-year veteran from Day 1.
 
-[Unreleased]
-## [1.1.0-DEV]
+[Released]
+## [1.1.0-STABLE]
 ### Added
 - External `programs.json` for easier data maintenance.
 - New schema fields: `Persona` and `Target_Roles` for consultative selling.
+- "Press Enter to continue" logic to prevent menu auto-scroll.
+- Dynamic Catalog Menu showing Sl No, Abbr, and Program Name.
+- Support for optional fields: `Pi Pack`, `Immersion`, and `Top Projects`.
 ### Changed
 - Refactored `navigator.py` to utilize dynamic JSON loading instead of hardcoded dictionaries.
+- Terminal pathing issues using absolute directory mapping (`os.path`).
+- Numeric sorting logic for programs (10, 11, 12 now follow 9).
