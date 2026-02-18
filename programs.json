@@ -1,3 +1,4 @@
+"version": "1.2.0"
 {
   "1": {
     "Program": "Professional Certificate Program in Data Science with GenAI",
@@ -218,4 +219,5 @@
     "Persona": "Senior Executives / Researchers",
     "Target_Roles": ["Chief Data Officer", "Research Scholar"]
   }
+
 }
