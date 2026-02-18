@@ -32,7 +32,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📈 Strategic Impact & ROI
 
-The transition from v1.0.0 to v1.1.0 shifts the Navigator from a **Catalog** to a **Consultative Engine**.
+The transition from v1.1.0 to v1.2.0 shifts the Navigator from a **Catalog** to a **Consultative Engine**.
 
 ### 1. Enhanced Conversion (Lead-to-Payment)
 By implementing **Side-by-Side Comparison**, counselors can immediately resolve "Decision Paralysis." Providing a clear "Value Delta" (e.g., comparing IIITB vs. LJMU) is projected to increase first-call closing efficiency by **15-20%**.
