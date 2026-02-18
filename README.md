@@ -45,3 +45,11 @@ This consultative approach builds instant trust, reducing lead drop-off and refu
 
 ### 3. Democratizing Expertise
 This tool reduces the technical training ramp-up for new Academic Counselors by **~60%**, allowing them to speak with the authority of a 1-year veteran from Day 1.
+
+[Unreleased]
+## [1.1.0-DEV]
+### Added
+- External `programs.json` for easier data maintenance.
+- New schema fields: `Persona` and `Target_Roles` for consultative selling.
+### Changed
+- Refactored `navigator.py` to utilize dynamic JSON loading instead of hardcoded dictionaries.
