@@ -1,43 +1,21 @@
-# Changelog - upGrad AC Navigator
+# upGrad AC Navigator (Development)
+**Version:** 1.3.x (Active Development)
+**Branch:** `dev`
 
-All notable changes to this project will be documented in this file.
-## [1.2.0-STABLE] - 2026-02-18
+### **2. `versions.md` (Change Log for Dev)**
+
+```markdown
+# Version History - AC Navigator
+
+## [v1.3.2] - 2026-02-26 (Current Dev Baseline)
 ### Added
-- **Feature:** Side-by-side comparison for dual-program evaluation.
-- **UI:** Added `upGrad 2026 OFFICIAL AC NAVIGATOR` branding to the main menu.
-- **Logic:** Implemented `if/elif` logic gate in `main()` to handle multi-selection vs. single-selection inputs.
-- **Formatting:** Used `textwrap.wrap` for adaptive column rendering in the comparison view.
+- Integration of `curriculum.json` into the load logic.
+- Standardized `Block Amount` field in `programs.json`.
 
 ### Fixed
-- Fixed bug where typing a comma-separated selection would trigger an "Invalid Selection" error after the comparison.
-- Fixed UX issue requiring users to press Enter twice to return to the menu.
+- **UI Alignment:** Rewrote `show_catalogue` to calculate column widths dynamically.
+- **Overlap Bug:** Resolved border collision for long institution names (IITKGP).
+- **Text Wrapping:** Ensured names like "Applied AI & Agentic AI" wrap neatly across rows.
 
-## [1.1.0-STABLE] - 2026-02-18
-### Added
-- External `programs.json` for easier data maintenance.
-- New schema fields: `Persona` and `Target_Roles` for consultative selling.
-- "Press Enter to continue" logic to prevent menu auto-scroll.
-- Dynamic Catalog Menu showing Sl No, Abbr, and Program Name.
-- Support for optional fields: `Pi Pack`, `Immersion`, and `Top Projects`.
-### Changed
-- Refactored `navigator.py` to utilize dynamic JSON loading instead of hardcoded dictionaries.
-- Terminal pathing issues using absolute directory mapping (`os.path`).
-- Numeric sorting logic for programs (10, 11, 12 now follow 9).
-
-## [1.0.0] - 2026-02-17
-### Added
-- **Final Technical Portfolio:** Confirmed all 12 DS, AI, and ML programs.
-- **DBA Seat Block Policy:** Updated GGU DBA block amount to ₹ 44,999.
-- **Immersion Transparency:** Added cost breakdown for international immersions (Transfers, Visa, Insurance, etc.).
-- **Relevant Tools Section:** Integrated industry tools for every program to assist in technical counseling.
-- **Enhanced UI:** Optimized console display width to 95 characters to handle high-detail course descriptions.
-
-### Fixed
-- Fixed text alignment and wrapping logic for long eligibility criteria.
-- Standardized program abbreviations across the database.
-
-## [0.7.0] - 2026-02-15
-### Added
-- Initial build (Beta).
-- Basic lookup functionality for 11 programs.
-- Fundamental cost and duration details.
+## [v1.2.0] - Legacy
+- Basic comparison engine and fixed-width catalogue.
