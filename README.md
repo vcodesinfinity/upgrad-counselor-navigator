@@ -1,70 +1,20 @@
-# upGrad Counselor Navigator (Technical Portfolio) 🚀
+# upGrad AC Navigator (Development)
+**Version:** 1.3.x (Active Development)
+**Branch:** `dev`
 
-## 🎯 Overview
-The **upGrad Counselor Navigator** is a specialized Python-based tool designed for Academic Counselors. It serves as a "Single Source of Truth" for the 2026 Data Science, AI, and Machine Learning program portfolio, ensuring accuracy during high-stakes learner interactions.
+## Overview
+This is the internal development branch for the AC Navigator. This branch focuses on transitioning from a simple program list to a multi-mode intelligence tool (Snapshot & Detailed views).
 
-## 🛠 Features
-- **Portfolio Focus:** Deep-dive details for 12 core technical programs.
-- **Financial Clarity:** Real-time access to "Total Cost" and "Block Amounts" (e.g., GGU DBA block at ₹44,999).
-- **Transparency:** Explicit breakdowns of learner-borne immersion costs for international programs (Singapore/San Francisco/UK).
-- **Technical Toolkits:** Lists industry-relevant tools (Python, Tableau, LangChain, etc.) for each course to assist in technical counseling.
+## Current Infrastructure
+- **Script:** `navigator.py` (v1.3.2 Baseline - Dynamic UI)
+- **Data Source 1:** `programs.json` (Full 12-program portfolio)
+- **Data Source 2:** `curriculum.json` (Deep-dive academic data)
 
-## 🚀 How to Run
-1. Ensure you have **Python 3.x** installed.
-2. Download `navigator.py` and `programs.json` into the same folder.
-3. Run: `python navigator.py`
-4. **Usage:** - Enter a single Sl No (e.g., `3`) for full details.
-   - Enter two Sl Nos separated by a comma (e.g., `3,4`) for a **Side-by-Side Comparison**.
+## Branching Strategy
+- `main`: Stable releases for AC usage.
+- `dev`: Integration branch for new features.
+- `feature/*`: Specific feature development (e.g., `feature/input-validation`).
 
-## 📂 Maintenance (For Future Joiners)
-To update program details or add new technical courses:
-1. Open the json script in any text editor (VS Code, Notepad++, etc.).
-2. Locate the `db` dictionary.
-3. Edit the existing values or follow the structure to add a new Sl No entry.
-4. **Note:** Ensure each entry follows the existing dictionary format to avoid syntax errors.
-
-## 📄 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-## 📅 Roadmap
-- [x] Initial Stable v1.0.0 Launch (DS/AI/ML Focus)
-- [x] Migration of data to an external JSON configuration file
-- [x] Integration of side-by-side Program Comparison Mode
-
-## 📈 Strategic Impact & ROI
-
-The transition from v1.1.0 to v1.2.0 shifts the Navigator from a **Catalog** to a **Consultative Engine**.
-
-### 1. Enhanced Conversion (Lead-to-Payment)
-By implementing **Side-by-Side Comparison**, counselors can immediately resolve "Decision Paralysis." Providing a clear "Value Delta" (e.g., comparing IIITB vs. LJMU) is projected to increase first-call closing efficiency by **15-20%**.
-
-### 2. Role-Based Authority
-Instead of selling "features," the **Role-Mapping Logic** sells "outcomes." 
-- **Non-Tech Switchers:** Guided toward foundational bootcamps.
-- **Career Accelerators:** Guided toward leadership/specialization tracks.
-This consultative approach builds instant trust, reducing lead drop-off and refund liabilities.
-
-### 3. Democratizing Expertise
-This tool reduces the technical training ramp-up for new Academic Counselors by **~60%**, allowing them to speak with the authority of a 1-year veteran from Day 1.
-
-[Released]
-## [1.1.0-STABLE] - 2026-02-18
-### Added
-- External `programs.json` for easier data maintenance.
-- New schema fields: `Persona` and `Target_Roles` for consultative selling.
-- "Press Enter to continue" logic to prevent menu auto-scroll.
-- Dynamic Catalog Menu showing Sl No, Abbr, and Program Name.
-- Support for optional fields: `Pi Pack`, `Immersion`, and `Top Projects`.
-### Changed
-- Refactored `navigator.py` to utilize dynamic JSON loading instead of hardcoded dictionaries.
-- Terminal pathing issues using absolute directory mapping (`os.path`).
-- Numeric sorting logic for programs (10, 11, 12 now follow 9).
-[Released]
-
-## [1.2.0] - 2026-02-18
-### Added
-- **Comparison Engine:** Side-by-side terminal view for comparing two programs simultaneously.
-- **Branding Header:** Integrated the official upGrad 2026 AC Navigator header.
-- **Improved UX:** Centralized navigation flow to prevent double-prompts and error loops.
-### Fixed
-- Resolved `NameError` and logic leak that caused "Invalid Selection" errors during multi-select.
+## How to Run
+```bash
+python navigator.py
