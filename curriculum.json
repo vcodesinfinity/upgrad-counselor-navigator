@@ -1,0 +1,495 @@
+{
+  "1": {
+    "Brochure": "DS_GenAI_v8.pdf",
+    "Phase_0": "Foundational modules serve as a 12-week bridge for non-coders to master Python and SQL basics before core analytics begins.",
+    "Key_Metrics": {
+      "Industry_Tools": "14+ Tools (Python, SQL, Power BI, Tableau, LangChain, OpenAI, Claude)",
+      "Case_Studies": "30+ Industry Case Studies",
+      "Capstone_Projects": "1 Signature End-to-End Business Solution Project",
+      "Workshops": "15+ Hands-on Workshops"
+    },
+    "Strategic_Highlight": "Microsoft-Certified Advantage: The only short-term cert in the portfolio that offers a joint-branded GenAI credential, making it the strongest 'resume-builder' for freshers.",
+    "Key_Highlights": [
+      "120+ hours of live learning sessions",
+      "Daily Doubt Resolution with expert support",
+      "Dedicated career mentorship and 1-on-1 coaching"
+    ],
+    "Core_Modules": [
+      "Module 1: Foundations (Python, SQL)",
+      "Module 2: Statistics & Business Analytics",
+      "Module 3: Visualization (Tableau/Power BI)",
+      "Module 4: Machine Learning",
+      "Module 5: Generative AI & RAG",
+      "Module 6: Capstone"
+    ],
+    "Elective_Logic": {
+      "Standard": "Integrated Generative AI modules included for all learners.",
+      "Pi_Pack": "N/A"
+    },
+    "Immersion_Details": {
+      "Type": "None",
+      "Note": "100% Online/Blended delivery optimized for fast-track skill acquisition."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "Is coding required?": "No, the program starts with foundations suitable for non-coders.",
+      "Are final year students eligible?": "Yes, provided they are in their final year of graduation."
+    }
+  },
+  "2": {
+    "Brochure": "EPGC_DS_AI_IIITB.pdf",
+    "Phase_0": "Includes a complimentary 3-month Data Science & AI Fundamentals bootcamp (Math/Python) designed specifically for non-technical backgrounds.",
+    "Key_Metrics": {
+      "Industry_Tools": "30+ tools (Python, MySQL, Excel, NumPy, Pandas, Matplotlib, Seaborn)",
+      "Case_Studies": "25+ Real-World Case Studies",
+      "Capstone_Projects": " 2 variant of each project, 1 Capstone Project focusing on real-world business datasets",
+      "Workshops": "Daily Doubt Resolution Support"
+    },
+    "Strategic_Highlight": "The program is specifically engineered for 'The Pivot.' It focuses on the most high-impact tools needed for a career switch without the 12-month commitment of a full Diploma.",
+    "Key_Highlights": [
+      "IIIT Bangalore Executive Alumni Status",
+      "Integrated Microsoft GenAI Professional Programme modules",
+      "Blended learning with recorded content and live doubt sessions",
+      "Structured career support for 6 months post-completion",
+      "1 Free Deferral",
+      "NSDC certification"
+    ],
+    "Core_Modules": [
+      "Module 1: Advanced Math & Programming (Linear Algebra and Linear Transformations,Multivariate Calculus, OOPs in Python, Python Data Science Libraries, NoSQL,Git)",
+      "Module 2: Data Analysis & Exploration (EDA, Inferential Statistics and Hypothesis Testing)",
+      "Module 3: Cloud Computing & Big Data",
+      "Module 4: Machine Learning Foundations (Regression, Classification, Decision Trees and Ensembles)",
+      "Module 5: Deep Learning & NLP (Convolutional and Recurrent Neural Networks, Lexical / Syntactic / Semantic Processing)"
+    ],
+    "Elective_Logic": {
+      "Standard": "Focused curriculum with no external electives to ensure completion in 6 months.",
+      "Pi_Pack": "N/A"
+    },
+    "Immersion_Details": {
+      "Type": "None",
+      "Note": "This is a 100% online executive certification with no physical immersion requirements."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "Is this suitable for someone with zero coding experience?": "Yes, the 3-month preparatory bootcamp is specifically designed to bridge that gap.",
+      "What is the difference between this and the Diploma?": "This is a fast-track 6-month certificate focusing on core DS/AI, whereas the Diploma is 12 months with deeper specializations."
+    }
+  },
+  "3": {
+    "Brochure": "IIITB_ED_DS_AI_v2_2.pdf",
+    "Phase_0": "Extensive 12-week Data Science & AI Fundamentals bootcamp covering Python and Math essentials for non-technical learners.",
+    "Key_Metrics": {
+      "Industry_Tools": "80 + Tools (Python, SQL, Tableau, Spark, AWS, Docker, Kubernetes, LangChain)",
+      "Case_Studies": "60+ Case Studies",
+      "Capstone_Projects": "12+ Capstone Projects, 30+ projects",
+      "Workshops": "Fortnightly Industry Masterclasses & Weekly Doubt Hangouts"
+    },
+    "Strategic_Highlight": "Articulation Pathway: This is the only diploma that allows learners to earn 70 credits that directly transfer to the Liverpool John Moores University (UK) Master's degree, saving significant time and cost.",
+    "Key_Highlights": [
+      "Dedicated Specialization Tracks (Pi-Packs) in NLP, Deep Learning, Business Analytics, or Data Engineering",
+      "IIIT Bangalore Executive Alumni Status with physical graduation ceremony",
+      "Generative AI infused across all tracks (LLMs, RAG, Prompt Engineering)",
+      "Dedicated Career Support for 6 months including 1-on-1 coaching"
+    ],
+    "Core_Modules": [
+      "Module 1: Advanced Math & Programming (Linear Algebra and Linear Transformations,Multivariate Calculus, OOPs in Python, Python Data Science Libraries, NoSQL,Git)",
+      "Module 2: Data Analysis & Exploration (EDA, Inferential Statistics and Hypothesis Testing)",
+      "Module 3: Cloud Computing & Big Data",
+      "Module 4: Machine Learning Foundations (Regression, Classification, Decision Trees and Ensembles)",
+      "Module 5: Deep Learning & NLP (Convolutional and Recurrent Neural Networks, Lexical / Syntactic / Semantic Processing)",
+      "Module 6: Specialization Track (Data Engineering / Data Analysis)",
+      "Module 6: Capstone Project"
+    ],
+    "Elective_Logic": {
+      "Standard": "Data Engineering / Data Analysis",
+      "Pi_Pack": "Choice of 4 tracks: GenAI + MLOps, GenAI + Analytics, Data Engineering + MLOps, or Data Engineering + GenAI."
+    },
+    "Immersion_Details": {
+      "Type": "On-Campus Graduation Ceremony at IIITB",
+      "Frequency": "Annual",
+      "Note": "Physical event at the Bangalore campus; travel and accommodation are learner-borne."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "Is it recognized for a Master's?": "Yes, it is WES recognized and acts as the foundation for the LJMU M.Sc. degree.",
+      "Can I switch specializations?": "Learners can choose their track after the common core modules are completed.",
+      "Is the content live?": "It is a mix of high-quality recorded content from faculty and live weekly interactive sessions."
+    }
+  },
+  "4": {
+    "Brochure": "LJMU_MS_DS_v2.pdf",
+    "Phase_0": "12-week Data Science & AI Fundamentals bootcamp designed to bridge technical gaps for professionals from non-STEM backgrounds.",
+    "Key_Metrics": {
+      "Industry_Tools": "25+ Tools (Python, SQL, AWS, Spark, Tableau, TensorFlow, Keras, Docker, Kubernetes)",
+      "Case_Studies": "30+ Industry Case Studies",
+      "Capstone_Projects": "1 Signature Capstone + 6-Month Research Thesis",
+      "Workshops": "Fortnightly Industry Masterclasses & Live Research Methodology Sessions"
+    },
+    "Strategic_Highlight": "WES Recognized & Global Mobility: This degree is recognized by WES (World Education Services), making it equivalent to a US/Canada Master's for immigration and global hiring purposes.",
+    "Key_Highlights": [
+      "Dual Alumni Status from IIIT Bangalore and Liverpool John Moores University, UK",
+      "Integrated Generative AI Elective covering LLMs, Prompt Engineering, and RAG",
+      "Access to LJMU’s digital library and global research resources",
+      "One-on-one thesis supervision by international faculty and industry experts"
+    ],
+    "Core_Modules": [
+      "Module 1: Data Toolkit (Python, SQL, EDA)",
+      "Module 2: Statistics & Machine Learning Foundations",
+      "Module 3: Specialisation Track (Deep Learning / NLP / Business Analytics / Data Engineering / Data Analytics)",
+      "Module 4: Generative AI & Advanced ML",
+      "Module 5: Research Methodologies",
+      "Module 6: Master's Dissertation (Thesis)"
+    ],
+    "Elective_Logic": {
+      "Standard": "Comprehensive Data Science & ML foundation.",
+      "Pi_Pack": "Choice of 5 Tracks: Deep Learning, Natural Language Processing, Business Analytics, Business Intelligence/Data Analytics, and Data Engineering."
+    },
+    "Immersion_Details": {
+      "IIITB": "On-Campus Graduation Ceremony in Bangalore.",
+      "LJMU": "Optional physical graduation ceremony at Liverpool, UK.",
+      "Note": "Travel, visa, and stay costs for both ceremonies are borne by the learner."
+    },
+    "Thesis_Topics": [
+      "Investigating Eye Diseases using Imaging Data",
+      "Predicting Credit Card Fraud in Real-time",
+      "Optimizing Supply Chain using Reinforcement Learning",
+      "Sentiment Analysis for Global Financial News"
+    ],
+    "Counselor_FAQ": {
+      "Is this a 'Twinning' degree?": "No, it is an online Master's degree with credits earned through IIITB and LJMU.",
+      "Is it recognized for PhD?": "Yes, as a Master of Science, it provides the necessary research credits to apply for PhD programs globally.",
+      "Do I get a Student Visa for UK?": "No, this is an online program. However, you can visit for the optional graduation ceremony on a standard visitor visa."
+    }
+  },
+  "5": {
+    "Brochure": "OPJ_MS_DS_brochure.pdf",
+    "Phase_0": "Foundational modules integrated into Trimester 1 to align learners from varied academic backgrounds.",
+    "Key_Metrics": {
+      "Industry_Tools": "38+ Tools (Python, SQL, TensorFlow, PyTorch, Power BI, Tableau)",
+      "Case_Studies": "15+ Industry Case Studies",
+      "Capstone_Projects": "30+ Projects to choose from across diverse domains",
+      "Workshops": "8+ Domain-specific Assignments"
+    },
+    "Strategic_Highlight": "UGC-Recognized Fast-Track: One of the few 12-month Master's programs in India offered by an 'Institution of Eminence' that is fully recognized for further studies and employment, while also providing a Microsoft-certified edge.",
+    "Key_Highlights": [
+      "Institutional Prestige: O.P. Jindal Global University is ranked as India's #1 Private University (QS World Rankings)",
+      "Trimester-based rigorous curriculum designed for deep immersion",
+      "Domain Customization: Assignments tailored to Finance, Healthcare, Ecommerce, and Supply Chain",
+      "Hands-on learning with a focus on 'Demystifying Algorithms'"
+    ],
+    "Core_Modules": [
+      "Trimester 1: Foundations of Data Science & Programming",
+      "Trimester 2: Advanced Machine Learning & Artificial Intelligence",
+      "Trimester 3: Deep Learning, GenAI & Industry Capstone"
+    ],
+    "Elective_Logic": {
+      "Standard": "Domain Assignments allow learners to specialize in specific industry applications.",
+      "Pi_Pack": "N/A"
+    },
+    "Immersion_Details": {
+      "Type": "On-Campus Graduation & Networking",
+      "Note": "Optional visit to the O.P. Jindal Global University campus in Sonipat; costs are learner-borne."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "What if I have less than 50% in graduation?": "You can still qualify by passing the university's online entrance examination.",
+      "Is this degree valid for Government jobs?": "Yes, O.P. Jindal Global University is a recognized 'Institution of Eminence' and the degree is UGC-compliant.",
+      "How is it finished in 12 months?": "The program uses a high-intensity trimester system (3 terms) to cover the credits typically spread over two years."
+    }
+  },
+  "6": {
+    "Brochure": "IIITB_ED_ML_v2.pdf",
+    "Phase_0": "12-week intensive Bootcamp on Math and Python foundations, ensuring non-technical professionals are ready for advanced algorithm implementation.",
+    "Key_Metrics": {
+      "Industry_Tools": "80+ Tools (Python, TensorFlow, Keras, Docker, Kubernetes, LangChain, PySpark, CrewAI, AutoGen)",
+      "Case_Studies": "80+ Real World Case Studies, 10+ Engineering-focused Case Studies",
+      "Capstone_Projects": "30+ hands on projects, 12+ and 1 Signature ML Deployment Capstone Project",
+      "Workshops": "Focus on Model Deployment (MLOps) and Agentic Workflow Design"
+    },
+    "Strategic_Highlight": "Deployment Sovereignty: This program uniquely offers specializations in MLOps and Agentic AI. It teaches not just how to build a model, but how to deploy, monitor, and scale it using modern multi-agent autonomous frameworks.",
+    "Key_Highlights": [
+      "9+ Years of Legacy with 10,000+ learners in the ML track specifically",
+      "Specializations: Choice between MLOps, Agentic AI + Data Engineering, or Analytics tracks",
+      "Articulation Path: Seamlessly progress to the LJMU M.Sc. in ML & AI (Sl No. 7)",
+      "Dual focus on Generative AI and Agentic AI for building autonomous business systems"
+    ],
+    "Core_Modules": [
+      "Module 1: Advanced Math & Programming (Python, SQL, Math for ML)",
+      "Module 2: Advanced Statistics & Exploratory Analysis (Data Analysis & Exploration)",
+      "Module 3: Cloud Computing & Big Data",
+      "Module 4: Machine Learning Foundations (Regression, Classification, Decision Trees and Ensembles)",
+      "Module 5: Deep Learning and NLP (Neural Network)",
+      "Module 6: Specialisation Track (MLOps/GenAI and Agentic AI)"
+    ],
+    "Elective_Logic": {
+      "Standard": "Includes core Generative AI and Agentic AI training for all tracks.",
+      "Pi_Pack": "Choice of 4 Tracks: GenAI & Agentic AI + Analytics, MLOps + Data Engineering, GenAI & Agentic AI + Data Engineering, or GenAI & Agentic AI + MLOps."
+    },
+    "Immersion_Details": {
+      "Type": "On-Campus Graduation Ceremony at IIITB",
+      "Note": "Physical ceremony held at the Bangalore campus; travel and stay costs are not included."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "How is this different from the Data Science Diploma?": "DS focuses on insights and business decisions; ML focuses on building algorithms and deploying automated systems (MLOps).",
+      "Is it suitable for non-programmers?": "Yes, provided they are willing to engage deeply with the 3-month preparatory bootcamp and the engineering-heavy curriculum.",
+      "Can I get a Master's degree later?": "Yes, you can articulate to the LJMU Master's in ML & AI upon completion."
+    }
+  },
+  "7": {
+    "Brochure": "LJMU_MS_ML.pdf",
+    "Phase_0": "Phase 0 (12 weeks) presents an opportunity for learners from non-coding backgrounds to build a foundation in Math and Python before the core curriculum starts.",
+    "Key_Metrics": {
+      "Industry_Tools": "80+ Programming & GenAI Tools (TensorFlow, Keras, Docker, Kubernetes, LangChain, etc.)",
+      "Case_Studies": "60+ Real-World Case Studies",
+      "Capstone_Projects": "12+ Capstone Projects with 2 Variants for Each Project",
+      "Workshops": "Fortnightly Industry Masterclasses & Research Methodology Workshops"
+    },
+    "Strategic_Highlight": "Double-Accredited Mastery: A dual-credential program that combines the academic rigor of IIIT Bangalore with a globally recognized M.Sc. from LJMU, UK. It is WES recognized, facilitating global career mobility.",
+    "Key_Highlights": [
+      "Dual Alumni status from both IIIT Bangalore and LJMU, UK",
+      "Highest salary hike recorded: 400%+",
+      "6-month dedicated Research Thesis phase with international supervisor support",
+      "Specializations in MLOps and Agentic AI included as core tracks"
+    ],
+    "Core_Modules": [
+      "Module 1: Advanced Math & Programming (Python, SQL, Math for ML)",
+      "Module 2: Data Analysis & Exploration (Advanced Statistics & Exploratory Analysis)",
+      "Module 3: Cloud Computing & Big Data",
+      "Module 4: Machine Learning Foundations (Regression, Classification, Decision Trees and Ensembles)",
+      "Module 5: Deep Learning and NLP (Neural Network)",
+      "Module 6: Specialisation Track (MLOps/GenAI and Agentic AI)",
+      "Module 7: Research Methodologies",
+      "Module 8: Master's Dissertation (Thesis)"
+    ],
+    "Elective_Logic": {
+      "Standard": "Integrated focus on MLOps and Generative AI for all learners.",
+      "Pi_Pack": "Choice of 3 specialized tracks: MLOps, Agentic AI + Data Engineering, or AI Strategy."
+    },
+    "Immersion_Details": {
+      "IIITB": "On-Campus Graduation Ceremony at IIITB Bangalore.",
+      "LJMU": "Optional physical graduation ceremony at Liverpool, UK.",
+      "Note": "Immersion participation is optional; associated costs (travel, visa, stay) are borne by the learner."
+    },
+    "Thesis_Topics": [
+      "Investigate a diagnosis of eye diseases using imaging ophthalmic data",
+      "Risk modelling for Financial activities and Investment Banking",
+      "Preventing credit card fraud through pattern recognition",
+      "Sentiment Analysis for Global Financial Markets",
+      "Autonomous Agent Orchestration in Healthcare Diagnostics",
+      "Scaling MLOps Pipelines for Real-time Edge Computing"
+    ],
+    "Counselor_FAQ": {
+      "How is this different from MS-DS?": "MS-DS is about insights/analytics; MS-ML is about engineering/building algorithms and deployment (MLOps).",
+      "Is the block amount really 15k?": "Yes, for the MS-ML program, the block amount is fixed at ₹15,000.",
+      "Can I apply for a PhD after this?": "Yes, the 60-credit research thesis makes you eligible for PhD applications globally."
+    }
+  },
+  "8": {
+    "Brochure": "IIT_Kharagpur_GenAI_and_Agentic_AI.pdf",
+    "Phase_0": "Technical Prerequisites: Learners must pass a self-check on Python functions, API handling, and basic Statistics before enrollment to ensure they can keep up with the IIT-level rigor.",
+    "Key_Metrics": {
+      "Industry_Tools": "15+ Advanced Tools (PyTorch, LangChain, CrewAI, AutoGen, Milvus, HuggingFace)",
+      "Case_Studies": "Industry-applied solutions focused on engineering bottlenecks",
+      "Capstone_Projects": "Production-Ready AI Deployment Project",
+      "Workshops": "Weekly 100% Live Interactive Sessions (3 hours every Saturday)"
+    },
+    "Strategic_Highlight": "IIT Kharagpur Pedigree: One of the few programs globally delivered 100% live by faculty from a Top 5 NIRF Engineering Institute. It focuses on the 'How' of building agents and customizing LLMs rather than just the 'What'.",
+    "Key_Highlights": [
+      "100% Live delivery by IIT Kharagpur's Dept. of CS & Engineering",
+      "Focus on 'Agentic AI' - building autonomous multi-agent systems using CrewAI/AutoGen",
+      "LLM Sovereignty: Deep dive into fine-tuning and local LLM deployment (Quantization, PEFT)",
+      "Rigorous hands-on labs designed for production-level reliability and safety",
+      "The top 10 percentile performers in each cohort receive a Certificate with Distinction, formally recognised on the credential."
+    ],
+    "Core_Modules": [
+      "Module 1: LLM Foundations & Prompt Engineering for Engineers",
+      "Module 2: Advanced RAG (Retrieval Augmented Generation) & Vector DBs",
+      "Module 3: LLM Fine-Tuning & Alignment (LLM Customization, PEFT, LoRA & QLoRA, Quantization)",
+      "Module 4: Multimodal & Agentic AI (Building Autonomous Agents & Multi-Agent Orchestration)",
+      "Module 5: Deployment, Optimisation & AI Safety (Deploying & Scaling Production-Ready AI Systems)"
+    ],
+    "Elective_Logic": {
+      "Standard": "Focused specialized curriculum; no electives to maintain technical depth.",
+      "Pi_Pack": "N/A"
+    },
+    "Immersion_Details": {
+      "Type": "On-campus academic recognition with your cohort, Certificate conferred by IIT Kharagpur leadership",
+      "Note": "Direct interaction with IIT Kharagpur faculty."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "Is this for beginners?": "No, this is an advanced technical program. Coding proficiency in Python is a mandatory prerequisite.",
+      "How is this different from other GenAI courses?": "Most courses teach you how to use AI; this teaches you how to build the infrastructure that runs AI agents and LLMs.",
+      "Are sessions recorded?": "Yes, but live attendance is highly encouraged due to the interactive nature of IIT faculty delivery."
+    }
+  },
+  "9": {
+    "Brochure": "Applied_AI_and_Agentic_AI_4.pdf",
+    "Phase_0": "Foundations & Data Engineering (Module 1): A 4-week intensive ramp-up for all learners to align on Python and data pipeline essentials.",
+    "Key_Metrics": {
+      "Industry_Tools": "32+ Tools (LangChain, AWS, Docker, Kubernetes, etc.)",
+      "Case_Studies": "Build agents across 12+ domains (Retail, BFSI, Healthcare, and more)",
+      "Capstone_Projects": "2 Industry-Grade Capstones (End-to-End ML System & Production Agentic AI System)",
+      "Workshops": "240+ Hours of Content with 30+ Projects to choose from"
+    },
+    "Strategic_Highlight": "The 'Deployment Sovereign' Advantage: Unlike theoretical courses, this program enforces a 'Production-First' rule—every module concludes with deployment. Learners graduate with the specific ability to build 'algorithm-first' agents that can think, plan, and act autonomously.",
+    "Key_Highlights": [
+      "Dual Architecture: Balanced focus on Applied AI (Foundations) and Agentic AI (Modern Autonomy)",
+      "Executive Alumni Status from IIIT Bangalore with physical convocation opportunity",
+      "Comprehensive MLOps integration to ensure models are production-ready",
+      "Specialized modules on Fine-Tuning, Scaling, and Enterprise-grade AI Orchestration"
+    ],
+    "Core_Modules": [
+      "Module 1: Foundations & Data Engineering (4 Weeks)",
+      "Module 2: Machine Learning & Deep Learning (5 Weeks)",
+      "Module 3: MLOps & Production Systems (5 Weeks)",
+      "Module 4: Capstone A - End-to-End ML System",
+      "Module 5: LLM Foundations & RAG Systems (3 Weeks)",
+      "Module 6: Agent Frameworks & Orchestration (5 Weeks)",
+      "Module 7: Fine-Tuning, Scale & Production (5 Weeks)",
+      "Module 8: Capstone B - Production Agentic AI System"
+    ],
+    "Elective_Logic": {
+      "Standard": "Agentic AI is the core focus of the second half of the program.",
+      "Pi_Pack": "N/A"
+    },
+    "Immersion_Details": {
+      "Type": "On-Campus Graduation at IIIT Bangalore",
+      "Note": "Physical convocation ceremony for EPGP learners; travel and stay are learner-borne."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "What is 'Agentic AI'?": "It is the next level of GenAI where AI doesn't just chat, but uses tools and plans steps to complete complex business tasks autonomously.",
+      "Is this for non-coders?": "The program includes a 4-week foundation module, but a willingness to engage deeply with Python and deployment tools is required.",
+      "How many projects do I get?": "You work on 8+ core projects, 2 capstones, and have a library of 30+ additional projects to choose from for domain specialization."
+    }
+  },
+  "10": {
+    "Brochure": "Executive_Program_in_Generative_AI_for_Leaders_1.pdf",
+    "Phase_0": "Leadership Onboarding: Initial sessions focused on demystifying the AI landscape for non-technical executives.",
+    "Key_Metrics": {
+      "Industry_Tools": "10+ Strategic Tools (ChatGPT, DALL-E, Microsoft Copilot, Pinecone, Midjourney)",
+      "Case_Studies": "5+ High-impact Business Case Studies",
+      "Capstone_Projects": "1 Industry-aligned Capstone Project with dedicated leadership mentoring",
+      "Workshops": "3 Domain-specific Interactive Workshops"
+    },
+    "Strategic_Highlight": "A.D.A.P.T Framework: Master a proprietary 5-step methodology (Assess, Design, Adopt, Plan, Transform) to drive organizational AI adoption and identify high-ROI use cases without writing a single line of code.",
+    "Key_Highlights": [
+      "25+ Live Learning Sessions with IIIT-B Faculty and Industry SMEs",
+      "Exclusive Microsoft 365 Copilot Interactive Experience for Executives",
+      "Dual Certification from IIIT-B & Microsoft + NSDC Certification",
+      "Focus on the 'Economics of AI' and building scalable AI-first business models"
+    ],
+    "Core_Modules": [
+      "Module 1: The Power of Generative AI in Modern Businesses",
+      "Module 2: The A.D.A.P.T Framework for AI Transformation",
+      "Module 3: Generative AI for Executive Productivity & Growth",
+      "Module 4: Enterprise Strategy: Ethics, Risk, and Governance",
+      "Module 5: Capstone: Leading the AI Transformation in your Organization"
+    ],
+    "Elective_Logic": {
+      "Standard": "Microsoft 365 Copilot course is a mandatory elective for the joint Microsoft certification.",
+      "Pi_Pack": "N/A"
+    },
+    "Immersion_Details": {
+      "Microsoft": "One day physical immersion at a Microsoft facility for networking and live demos.",
+      "IIIT-B": "One day physical immersion at the IIIT Bangalore campus.",
+      "Note": "Immersions are designed for high-level strategic exchange; travel and stay are learner-borne."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "Do I need to know Python?": "No, this program is 100% non-coding and designed for business leaders.",
+      "Is the Microsoft certification separate?": "It is a dual certification awarded jointly by IIIT-B and Microsoft upon completion of the program requirements.",
+      "What is the NSDC benefit?": "The NSDC certification provides official government-aligned recognition for skills acquired during the program."
+    }
+  },
+  "11": {
+    "Brochure": "CTOAI_leadership_program_compressed.pdf",
+    "Phase_0": "Week 0: Leadership Onboarding - Preparing technical leaders to pivot toward strategic and enterprise-level thinking.",
+    "Key_Metrics": {
+      "Industry_Tools": "Focus on Strategic Tech Stacks (MLOps, LLMOps, Cloud Infrastructure, FinOps)",
+      "Case_Studies": "Enterprise Case Studies like Maersk (AI Logistics) and Unilever (Demand Forecasting)",
+      "Capstone_Projects": "1 Multi-part Strategic Dossier (The Board-Ready Portfolio)",
+      "Workshops": "160+ total learning hours with guided weekly project work"
+    },
+    "Strategic_Highlight": "The Dual-School Edge: Combines technical architecture and production AI (IIITB) with strategic vision, P&L ownership, and boardroom influence (IIMU) to create a board-ready tech executive.",
+    "Key_Highlights": [
+      "Double Executive Alumni Status from IIIT-B and IIMU",
+      "Production-focused AI curriculum (MLOps/LLMOps) rather than just theory",
+      "P&L Ownership & FinOps Mastery: Learn to manage tech as a profit center",
+      "Board-Ready Strategic Dossier: A comprehensive portfolio used for CTO interviews and board reviews"
+    ],
+    "Core_Modules": [
+      "Module 1: Foundations of AI and Gen AI Landscape (IIITB)",
+      "Module 2: Scaling AI: MLOps, LLMOps, RAG Systems & Agentic AI (IIITB)",
+      "Module 3: Next-Gen Platform Engineering: Cloud, APIs & Distributed Systems (IIITB)",
+      "Module 4: Cyber Resilience: Risk, Compliance & Trust Engineering (IIITB)",
+      "Module 5 (Bridge): Translational Leadership & Strategic Value Mapping (Co-taught)",
+      "Module 6: Building Enterprise Vision: Product, Innovation & Digital Strategy (IIMU)",
+      "Module 7: Financial Leadership: Tech ROI, P&L Ownership & Value Creation (IIMU)",
+      "Module 8: CTO Executive Presence: Strategic Storytelling & Influence (IIMU)",
+      "Module 9: Building & Leading the AI-Ready Tech Organization (IIMU)"
+    ],
+    "Elective_Logic": {
+      "Standard": "Comprehensive leadership track with no electives to ensure end-to-end CTO competency.",
+      "Pi_Pack": "N/A"
+    },
+    "Immersion_Details": {
+      "IIITB": "2-Day AI Success Planning & Strategy Workshop on campus in Bangalore.",
+      "Microsoft": "1-Day Microsoft AI Leadership Immersion in Bangalore.",
+      "Note": "Learners experience hands-on prototyping and boardroom simulations during these immersions."
+    },
+    "Thesis_Topics": [],
+    "Counselor_FAQ": {
+      "Is prior AI experience required?": "No, while technical depth is expected, the AI expertise is built systematically throughout the 24 weeks.",
+      "What is the Strategic Dossier?": "It is a 40-page document including your Platform Blueprint, AI Opportunity Map, and Technology Investment Case that serves as your professional CTO portfolio.",
+      "Do I get alumni status?": "Yes, you receive dual executive alumni status from both IIIT Bangalore and IIM Udaipur."
+    }
+  },
+  "12": {
+    "Brochure": "N/A (Web: GGU_DBA_GenAI)",
+    "Phase_0": "Doctoral Foundation: Intensive training in advanced business research, academic writing, and quantitative methods to prepare for high-level scholarship.",
+    "Key_Metrics": {
+      "Industry_Tools": "Focus on Strategic AI Frameworks & Advanced Analytics (SPSS, R, Python)",
+      "Case_Studies": "Advanced Research-level Global Case Studies",
+      "Capstone_Projects": "Final Doctoral Dissertation (3-year original research project)",
+      "Workshops": "500+ Hours of Live Learning with International Faculty"
+    },
+    "Strategic_Highlight": "Silicon Valley Prestige: This is a WSCUC-accredited US Doctorate that provides WES recognition for US/Canada equivalence. It is specifically built for the 'AI Era,' allowing senior leaders to create original IP and strategies in Generative AI rather than just applying existing models.",
+    "Key_Highlights": [
+      "WES Recognized: Equivalent to a US/Canada PhD for immigration and career purposes",
+      "GGU Alumni Status: Join a 68,000+ global network including CEOs and political leaders",
+      "1-on-1 Dissertation Support: Direct mentorship from international research supervisors",
+      "PwC Directorship Add-on: Optional certification to prepare for Independent Director and Board roles"
+    ],
+    "Core_Modules": [
+      "Module 1: Advanced Business Research Methodologies",
+      "Module 2: Data-Driven Decision Making & Applied Statistics",
+      "Module 3: Strategic Leadership in Emerging Technologies",
+      "Module 4: Gen AI for Enterprise-Wide Business Transformation",
+      "Module 5: Dissertation Proposal & Defense",
+      "Module 6: Doctoral Research & Thesis Publication"
+    ],
+    "Elective_Logic": {
+      "Standard": "Focused doctoral track with concentration in Emerging Technologies/Gen AI.",
+      "Pi_Pack": "N/A"
+    },
+    "Immersion_Details": {
+      "Immersion_1": "Singapore (5 Days): Focus on global business and tech-hubs.",
+      "Immersion_2": "San Francisco (5 Days): Graduation and networking at the GGU Campus, Silicon Valley.",
+      "Note": "Learners bear flights, transfers, accommodation, visa, and most meals. upGrad provides lunch during immersion days."
+    },
+    "Thesis_Topics": [
+      "Impact of LLMs on Enterprise Knowledge Management Systems",
+      "AI Governance and Ethics in Multinational Corporations",
+      "Measuring ROI of Generative AI in Supply Chain Optimization",
+      "Human-AI Collaboration Models in Creative Industries"
+    ],
+    "Counselor_FAQ": {
+      "Is this a PhD?": "It is a DBA (Doctor of Business Administration), which is a professional doctorate focused on applying research to business problems, whereas a PhD is often more theoretical.",
+      "Can I get US/Canada PR with this?": "Yes, as it is WES-recognized, it provides the maximum points for education in the Express Entry/Immigration systems.",
+      "Do I need to leave my job?": "No, the program is designed for working executives with flexible live sessions and online dissertation support."
+    }
+  }
+}
