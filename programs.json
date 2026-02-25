@@ -1,9 +1,4 @@
 {
-  "version": "1.3.0",
-  "data": {
-    "branch": "dev",
-    "build": "stable"
-  },
   "1": {
     "Program": "Professional Certificate Program in Data Science with GenAI",
     "Abbr": "PCP-DS",
@@ -221,3 +216,4 @@
     "Target_Roles": ["Chief Strategy Officer", "Senior Management Consultant", "Independent Director", "Academic Head"]
   }
 }
+
